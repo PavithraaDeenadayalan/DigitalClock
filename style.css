@@ -1,0 +1,62 @@
+* {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body, html {
+      height: 100%;
+      background: #121212;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #00ff99;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .clock-container {
+      background: #1e1e1e;
+      padding: 30px 40px;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0, 255, 153, 0.2);
+      text-align: center;
+      width: 100%;
+      max-width: 340px;
+    }
+
+    .greeting {
+      font-size: 1.2rem;
+      margin-bottom: 10px;
+      color: #ffffffdd;
+    }
+
+    .time {
+      font-size: 3rem;
+      font-weight: bold;
+      margin-bottom: 10px;
+      color: #00ff99;
+    }
+
+    .date {
+      font-size: 1.1rem;
+      margin-bottom: 6px;
+      color: #cccccc;
+    }
+
+    .day {
+      font-size: 1rem;
+      color: #aaaaaa;
+    }
+
+    @media (max-width: 400px) {
+      .clock-container {
+        padding: 20px 25px;
+      }
+      .time {
+        font-size: 2.5rem;
+      }
+      .greeting {
+        font-size: 1rem;
+      }
+    }
