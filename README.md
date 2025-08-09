@@ -15,7 +15,7 @@ A clean and responsive digital clock built using HTML, CSS, and JavaScript. It d
 
 ## Preview
 
-*(Tip: Upload a screenshot in your GitHub repo and paste its URL here)*
+[Click here to view the image](https://github.com/PavithraaDeenadayalan/DigitalClock/blob/main/DigitalClock.png)
 
 ## Tech Stack
 
