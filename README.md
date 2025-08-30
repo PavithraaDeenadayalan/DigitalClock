@@ -78,4 +78,4 @@ Follow for more projects and tech experiments!
 
 ---
 
-*Made with love*
+*Made with love ❤️*
